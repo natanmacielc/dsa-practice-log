@@ -1,0 +1,13 @@
+# Compiled Java classes
+*.class
+
+# Build output
+out/
+bin/
+target/
+
+# OS / editor cruft
+.DS_Store
+.idea/
+*.iml
+.vscode/

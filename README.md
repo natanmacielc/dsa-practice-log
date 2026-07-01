@@ -1,0 +1,54 @@
+# DSA Practice Log
+
+A structured log of my data-structures & algorithms practice. Every problem lives
+in its own folder with a description, a running **attempt log**, and each attempt's
+code preserved separately — so I can re-solve a problem later and compare against my
+past self.
+
+## How it's organized
+
+```
+problems/<level>/<number>-<slug>/
+├── README.md                 # description, metadata, attempt log, review notes
+└── attempts/
+    ├── 01-java/Solution.java  # attempt #1 (language in the folder name)
+    ├── 02-java/Solution.java  # a later re-attempt — kept separate for diffing
+    └── 02-python/Solution.py  # same attempt idea in another language
+```
+
+- **Level** — `easy` / `medium` / `hard` (top-level folders under `problems/`).
+- **Problem** — folder prefixed with the LeetCode number (zero-padded) for stable sorting, e.g. `0001-two-sum`.
+- **Description & metadata** — the problem's `README.md`: source link, topics, examples, constraints.
+- **Language & attempts** — each attempt is its own `attempts/NN-<lang>/` folder, so nothing is overwritten and any two attempts can be diffed.
+- **Number of attempts / results** — tracked in the per-problem **Attempt Log** table and summarized in the index below.
+
+## How to add a new attempt
+
+1. Find (or create) the problem folder under `problems/<level>/`.
+   - New problem: copy `templates/problem-README.md` → `problems/<level>/<num>-<slug>/README.md` and fill it in.
+2. Create `attempts/NN-<lang>/` with the next attempt number and drop your solution in
+   (start from `templates/Solution.java` for Java). **Don't peek at older attempts until you're done** — that's the point.
+3. Add a row to the problem's **Attempt Log** and bump its **Attempts** count.
+4. Update the row for this problem in the [index](#index) below.
+
+## Index
+
+| Level  | #    | Problem                                                                     | Topics                                | Langs | Attempts | Last       |
+| ------ | ---- | --------------------------------------------------------------------------- | ------------------------------------- | ----- | -------- | ---------- |
+| Easy   | 1    | [Two Sum](problems/easy/0001-two-sum/)                                       | Array, Hash Table                     | Java  | 1        | 2026-07-01 |
+| Easy   | 217  | [Contains Duplicate](problems/easy/0217-contains-duplicate/)                 | Array, Hash Table                     | Java  | 1        | 2026-07-01 |
+| Easy   | 242  | [Valid Anagram](problems/easy/0242-valid-anagram/)                           | Hash Table, String                    | Java  | 1        | 2026-07-01 |
+| Medium | 5    | [Longest Palindromic Substring](problems/medium/0005-longest-palindromic-substring/) | String, DP, Two Pointers     | Java  | 1        | 2026-07-01 |
+| Medium | 128  | [Longest Consecutive Sequence](problems/medium/0128-longest-consecutive-sequence/) | Array, Hash Table, Union Find | Java  | 1        | 2026-07-01 |
+| Medium | 337  | [House Robber III](problems/medium/0337-house-robber-iii/)                   | DP, Tree, DFS                         | Java  | 1        | 2026-07-01 |
+| Medium | 547  | [Number of Provinces](problems/medium/0547-number-of-provinces/)             | DFS, BFS, Union Find, Graph           | Java  | 1        | 2026-07-01 |
+| Medium | 1020 | [Number of Enclaves](problems/medium/1020-number-of-enclaves/)               | DFS, BFS, Union Find, Matrix          | Java  | 1        | 2026-07-01 |
+| Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
+
+**Totals:** 9 problems — 3 easy · 5 medium · 1 hard.
+
+## Conventions
+
+- **Result legend** (Attempt Log): ✅ Solved unaided · 🟡 Solved with hints · ❌ Gave up / wrong · ⏱️ TLE/MLE.
+- Java solution files declare **no package** so they're self-contained and copy-paste ready for the LeetCode editor.
+- Time/space complexity is recorded in the code's Javadoc **and** the Attempt Log for quick scanning.
