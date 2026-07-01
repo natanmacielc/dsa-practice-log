@@ -36,8 +36,11 @@ problems/<level>/<number>-<slug>/
 | Level  | #    | Problem                                                                     | Topics                                | Langs | Attempts | Last       |
 | ------ | ---- | --------------------------------------------------------------------------- | ------------------------------------- | ----- | -------- | ---------- |
 | Easy   | 1    | [Two Sum](problems/easy/0001-two-sum/)                                       | Array, Hash Table                     | Java  | 1        | 2026-07-01 |
+| Easy   | 20   | [Valid Parentheses](problems/easy/0020-valid-parentheses/)                   | String, Stack                         | Java  | 1        | 2026-07-01 |
+| Easy   | 125  | [Valid Palindrome](problems/easy/0125-valid-palindrome/)                     | String, Two Pointers, RegExp, ASCII   | Java  | 1        | 2026-07-01 |
 | Easy   | 217  | [Contains Duplicate](problems/easy/0217-contains-duplicate/)                 | Array, Hash Table                     | Java  | 1        | 2026-07-01 |
 | Easy   | 242  | [Valid Anagram](problems/easy/0242-valid-anagram/)                           | Hash Table, String                    | Java  | 1        | 2026-07-01 |
+| Easy   | 704  | [Binary Search](problems/easy/0704-binary-search/)                           | Array, Binary Search                  | Java  | 1        | 2026-07-01 |
 | Medium | 5    | [Longest Palindromic Substring](problems/medium/0005-longest-palindromic-substring/) | String, DP, Two Pointers     | Java  | 1        | 2026-07-01 |
 | Medium | 128  | [Longest Consecutive Sequence](problems/medium/0128-longest-consecutive-sequence/) | Array, Hash Table, Union Find | Java  | 1        | 2026-07-01 |
 | Medium | 337  | [House Robber III](problems/medium/0337-house-robber-iii/)                   | DP, Tree, DFS                         | Java  | 1        | 2026-07-01 |
@@ -45,7 +48,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 1020 | [Number of Enclaves](problems/medium/1020-number-of-enclaves/)               | DFS, BFS, Union Find, Matrix          | Java  | 1        | 2026-07-01 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 9 problems — 3 easy · 5 medium · 1 hard.
+**Totals:** 12 problems — 6 easy · 5 medium · 1 hard.
 
 ## Conventions
 
