@@ -1,3 +1,6 @@
+import java.util.ArrayDeque;
+import java.util.Deque;
+
 class Solution {
     private static final char[] BRACKET_TABLE = bracketTable();
     /**
