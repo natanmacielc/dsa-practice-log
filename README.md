@@ -46,11 +46,12 @@ problems/<level>/<number>-<slug>/
 | Medium | 49   | [Group Anagrams](problems/medium/0049-group-anagrams/)                       | Array, Hash Table, String, Sorting    | Java  | 1        | 2026-07-01 |
 | Medium | 128  | [Longest Consecutive Sequence](problems/medium/0128-longest-consecutive-sequence/) | Array, Hash Table, Union Find | Java  | 1        | 2026-07-01 |
 | Medium | 337  | [House Robber III](problems/medium/0337-house-robber-iii/)                   | DP, Tree, DFS                         | Java  | 1        | 2026-07-01 |
+| Medium | 347  | [Top K Frequent Elements](problems/medium/0347-top-k-frequent-elements/)     | Array, Hash Table, Sorting, Heap, Bucket Sort | Java  | 1        | 2026-07-02 |
 | Medium | 547  | [Number of Provinces](problems/medium/0547-number-of-provinces/)             | DFS, BFS, Union Find, Graph           | Java  | 1        | 2026-07-01 |
 | Medium | 1020 | [Number of Enclaves](problems/medium/1020-number-of-enclaves/)               | DFS, BFS, Union Find, Matrix          | Java  | 1        | 2026-07-01 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 14 problems — 7 easy · 6 medium · 1 hard.
+**Totals:** 15 problems — 7 easy · 7 medium · 1 hard.
 
 ## Conventions
 
