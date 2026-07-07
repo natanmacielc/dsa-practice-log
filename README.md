@@ -37,6 +37,7 @@ problems/<level>/<number>-<slug>/
 | ------ | ---- | --------------------------------------------------------------------------- | ------------------------------------- | ----- | -------- | ---------- |
 | Easy   | 1    | [Two Sum](problems/easy/0001-two-sum/)                                       | Array, Hash Table                     | Java  | 1        | 2026-07-01 |
 | Easy   | 13   | [Roman to Integer](problems/easy/0013-roman-to-integer/)                     | Hash Table, Math, String              | Java  | 1        | 2026-07-01 |
+| Easy   | 14   | [Longest Common Prefix](problems/easy/0014-longest-common-prefix/)           | String, Trie                          | Java  | 1        | 2026-07-07 |
 | Easy   | 20   | [Valid Parentheses](problems/easy/0020-valid-parentheses/)                   | String, Stack                         | Java  | 1        | 2026-07-01 |
 | Easy   | 125  | [Valid Palindrome](problems/easy/0125-valid-palindrome/)                     | String, Two Pointers, RegExp, ASCII   | Java  | 1        | 2026-07-01 |
 | Easy   | 217  | [Contains Duplicate](problems/easy/0217-contains-duplicate/)                 | Array, Hash Table                     | Java  | 1        | 2026-07-01 |
@@ -53,7 +54,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 1020 | [Number of Enclaves](problems/medium/1020-number-of-enclaves/)               | DFS, BFS, Union Find, Matrix          | Java  | 1        | 2026-07-01 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 17 problems — 7 easy · 9 medium · 1 hard.
+**Totals:** 18 problems — 8 easy · 9 medium · 1 hard.
 
 ## Conventions
 
