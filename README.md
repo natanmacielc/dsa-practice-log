@@ -41,10 +41,15 @@ problems/<level>/<number>-<slug>/
 | Easy   | 14   | [Longest Common Prefix](problems/easy/0014-longest-common-prefix/)           | String, Trie                          | Java  | 1        | 2026-07-07 |
 | Easy   | 21   | [Merge Two Sorted Lists](problems/easy/0021-merge-two-sorted-lists/)         | Linked List, Recursion                | Java  | 1        | 2026-07-08 |
 | Easy   | 20   | [Valid Parentheses](problems/easy/0020-valid-parentheses/)                   | String, Stack                         | Java  | 1        | 2026-07-01 |
+| Easy   | 26   | [Remove Duplicates from Sorted Array](problems/easy/0026-remove-duplicates-from-sorted-array/) | Array, Two Pointers | Java  | 1        | 2026-07-12 |
+| Easy   | 27   | [Remove Element](problems/easy/0027-remove-element/)                         | Array, Two Pointers                   | Java  | 1        | 2026-07-12 |
+| Easy   | 28   | [Find the Index of the First Occurrence in a String](problems/easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | String, String Matching | Java  | 1        | 2026-07-12 |
+| Easy   | 35   | [Search Insert Position](problems/easy/0035-search-insert-position/)         | Array, Binary Search                  | Java  | 1        | 2026-07-12 |
 | Easy   | 125  | [Valid Palindrome](problems/easy/0125-valid-palindrome/)                     | String, Two Pointers, RegExp, ASCII   | Java  | 1        | 2026-07-01 |
 | Easy   | 217  | [Contains Duplicate](problems/easy/0217-contains-duplicate/)                 | Array, Hash Table                     | Java  | 1        | 2026-07-01 |
 | Easy   | 242  | [Valid Anagram](problems/easy/0242-valid-anagram/)                           | Hash Table, String                    | Java  | 1        | 2026-07-01 |
 | Easy   | 704  | [Binary Search](problems/easy/0704-binary-search/)                           | Array, Binary Search                  | Java  | 1        | 2026-07-01 |
+| Easy   | 1331 | [Rank Transform of an Array](problems/easy/1331-rank-transform-of-an-array/) | Array, Hash Table, Sorting            | Java  | 1        | 2026-07-12 |
 | Medium | 5    | [Longest Palindromic Substring](problems/medium/0005-longest-palindromic-substring/) | String, DP, Two Pointers     | Java  | 1        | 2026-07-01 |
 | Medium | 49   | [Group Anagrams](problems/medium/0049-group-anagrams/)                       | Array, Hash Table, String, Sorting    | Java  | 1        | 2026-07-01 |
 | Medium | 128  | [Longest Consecutive Sequence](problems/medium/0128-longest-consecutive-sequence/) | Array, Hash Table, Union Find | Java  | 1        | 2026-07-01 |
@@ -56,7 +61,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 1020 | [Number of Enclaves](problems/medium/1020-number-of-enclaves/)               | DFS, BFS, Union Find, Matrix          | Java  | 1        | 2026-07-01 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 20 problems — 10 easy · 9 medium · 1 hard.
+**Totals:** 25 problems — 15 easy · 9 medium · 1 hard.
 
 ## Conventions
 
