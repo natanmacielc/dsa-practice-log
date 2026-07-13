@@ -48,11 +48,14 @@ problems/<level>/<number>-<slug>/
 | Easy   | 125  | [Valid Palindrome](problems/easy/0125-valid-palindrome/)                     | String, Two Pointers, RegExp, ASCII   | Java  | 1        | 2026-07-01 |
 | Easy   | 217  | [Contains Duplicate](problems/easy/0217-contains-duplicate/)                 | Array, Hash Table                     | Java  | 1        | 2026-07-01 |
 | Easy   | 242  | [Valid Anagram](problems/easy/0242-valid-anagram/)                           | Hash Table, String                    | Java  | 1        | 2026-07-01 |
+| Easy   | 303  | [Range Sum Query - Immutable](problems/easy/0303-range-sum-query-immutable/) | Array, Design, Prefix Sum             | Java  | 2        | 2026-07-13 |
 | Easy   | 704  | [Binary Search](problems/easy/0704-binary-search/)                           | Array, Binary Search                  | Java  | 1        | 2026-07-01 |
 | Easy   | 1331 | [Rank Transform of an Array](problems/easy/1331-rank-transform-of-an-array/) | Array, Hash Table, Sorting            | Java  | 1        | 2026-07-12 |
+| Easy   | 1929 | [Concatenation of Array](problems/easy/1929-concatenation-of-array/)         | Array, Simulation                     | Java  | 1        | 2026-07-13 |
 | Medium | 5    | [Longest Palindromic Substring](problems/medium/0005-longest-palindromic-substring/) | String, DP, Two Pointers     | Java  | 1        | 2026-07-01 |
 | Medium | 49   | [Group Anagrams](problems/medium/0049-group-anagrams/)                       | Array, Hash Table, String, Sorting    | Java  | 1        | 2026-07-01 |
 | Medium | 128  | [Longest Consecutive Sequence](problems/medium/0128-longest-consecutive-sequence/) | Array, Hash Table, Union Find | Java  | 1        | 2026-07-01 |
+| Medium | 146  | [LRU Cache](problems/medium/0146-lru-cache/)                                 | Hash Table, Linked List, Design, Doubly-Linked List | Java  | 1        | 2026-07-13 |
 | Medium | 238  | [Product of Array Except Self](problems/medium/0238-product-of-array-except-self/) | Array, Prefix Sum              | Java  | 2        | 2026-07-03 |
 | Medium | 271  | [Encode and Decode Strings](problems/medium/0271-encode-and-decode-strings/) | Array, String, Design                 | Java  | 1        | 2026-07-02 |
 | Medium | 337  | [House Robber III](problems/medium/0337-house-robber-iii/)                   | DP, Tree, DFS                         | Java  | 1        | 2026-07-01 |
@@ -61,7 +64,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 1020 | [Number of Enclaves](problems/medium/1020-number-of-enclaves/)               | DFS, BFS, Union Find, Matrix          | Java  | 1        | 2026-07-01 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 25 problems — 15 easy · 9 medium · 1 hard.
+**Totals:** 28 problems — 17 easy · 10 medium · 1 hard.
 
 ## Conventions
 
