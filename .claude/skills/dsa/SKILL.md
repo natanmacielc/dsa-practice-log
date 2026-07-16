@@ -81,9 +81,16 @@ attempt logged), commit the changes and push:
 
 1. `git add` only the files touched by this skill run (the new/changed
    problem folder and the top-level `README.md`) — never a blanket `git add -A`.
-2. Commit with a message following this repo's existing style (see
-   `git log`), e.g. `new: medium problem <title> and 1 attempt` or
-   `attempt: 1 new on <number>. <title>`.
+2. Commit with a Conventional Commits message (`<type>: <description>`):
+   - `feat:` for scaffolding a brand-new problem (Mode 1, no attempt yet),
+     e.g. `feat: add 207 course schedule`.
+   - `feat:` for a new problem scaffolded and solved in one go, e.g.
+     `feat: add 207 course schedule with 1 attempt`.
+   - `test:` for logging a new attempt on an already-existing problem
+     (Mode 2 only), e.g. `test: log attempt 2 on 238 product of array except self`.
+   - `docs:` if the change is purely to README notes/review sections with
+     no new attempt code.
+   Keep the description lowercase, imperative, under ~70 chars.
 3. Push to the current branch's upstream.
 
 Do this automatically without asking for confirmation each time — it's the
