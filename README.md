@@ -57,7 +57,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 49   | [Group Anagrams](problems/medium/0049-group-anagrams/)                       | Array, Hash Table, String, Sorting    | Java  | 1        | 2026-07-01 |
 | Medium | 128  | [Longest Consecutive Sequence](problems/medium/0128-longest-consecutive-sequence/) | Array, Hash Table, Union Find | Java  | 1        | 2026-07-01 |
 | Medium | 146  | [LRU Cache](problems/medium/0146-lru-cache/)                                 | Hash Table, Linked List, Design, Doubly-Linked List | Java  | 1        | 2026-07-13 |
-| Medium | 238  | [Product of Array Except Self](problems/medium/0238-product-of-array-except-self/) | Array, Prefix Sum              | Java  | 2        | 2026-07-03 |
+| Medium | 238  | [Product of Array Except Self](problems/medium/0238-product-of-array-except-self/) | Array, Prefix Sum              | Java  | 3        | 2026-07-14 |
 | Medium | 271  | [Encode and Decode Strings](problems/medium/0271-encode-and-decode-strings/) | Array, String, Design                 | Java  | 1        | 2026-07-02 |
 | Medium | 304  | [Range Sum Query 2D - Immutable](problems/medium/0304-range-sum-query-2d-immutable/) | Array, Design, Matrix, Prefix Sum | Java  | 1        | 2026-07-14 |
 | Medium | 337  | [House Robber III](problems/medium/0337-house-robber-iii/)                   | DP, Tree, DFS                         | Java  | 1        | 2026-07-01 |
