@@ -32,7 +32,7 @@ Output: true
 
 | #                                    | Date       | Language | Approach            | Time | Space | Result             | Notes |
 | ------------------------------------ | ---------- | -------- | ------------------- | ---- | ----- | ------------------- | ----- |
-| [01](attempts/01-java/Solution.java) | 2026-07-16 | Java     | Kahn's algorithm (BFS topological sort) with in-degree counting | O(v + e) | O(v + e) | ✅ Solved unaided | |
+| [01](attempts/01-java/Solution.java) | 2026-07-16 | Java     | Kahn's algorithm (BFS topological sort) with in-degree counting | O(v + e) | O(v + e) | 🟡 Solved with hints | |
 
 <!-- Result legend: ✅ Solved unaided · 🟡 Solved with hints · ❌ Gave up / wrong · ⏱️ TLE/MLE -->
 

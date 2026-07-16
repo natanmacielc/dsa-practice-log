@@ -69,9 +69,27 @@ Steps:
      the problem README, `Langs` column, current `Attempts` count, and
      `Last` = today's date.
    - Recompute and update the `**Totals:**` line (count rows per level).
+6. Commit and push (see **Commit & push** below).
 
 Ask the user for today's date if not available from context rather than
 guessing.
+
+## Commit & push
+
+After finishing Mode 1 (scaffold only, no attempt yet) or Mode 2 (new
+attempt logged), commit the changes and push:
+
+1. `git add` only the files touched by this skill run (the new/changed
+   problem folder and the top-level `README.md`) — never a blanket `git add -A`.
+2. Commit with a message following this repo's existing style (see
+   `git log`), e.g. `new: medium problem <title> and 1 attempt` or
+   `attempt: 1 new on <number>. <title>`.
+3. Push to the current branch's upstream.
+
+Do this automatically without asking for confirmation each time — it's the
+expected end state of every scaffold/attempt in this practice-log repo. If
+`git push` fails (no upstream, diverged history, auth issue), stop and
+surface the error to the user rather than forcing/retrying destructively.
 
 ## Notes
 
