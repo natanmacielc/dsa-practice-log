@@ -62,6 +62,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 207  | [Course Schedule](problems/medium/0207-course-schedule/)                     | Graph, Topological Sort, BFS, DFS      | Java  | 1        | 2026-07-16 |
 | Medium | 230  | [Kth Smallest Element in a BST](problems/medium/0230-kth-smallest-element-in-a-bst/) | Tree, DFS, BST, Binary Tree    | Java  | 1        | 2026-07-16 |
 | Medium | 875  | [Koko Eating Bananas](problems/medium/0875-koko-eating-bananas/)             | Array, Binary Search                  | Java  | 1        | 2026-07-16 |
+| Medium | 2187 | [Minimum Time to Complete Trips](problems/medium/2187-minimum-time-to-complete-trips/) | Array, Binary Search        | Java  | 1        | 2026-07-17 |
 | Medium | 238  | [Product of Array Except Self](problems/medium/0238-product-of-array-except-self/) | Array, Prefix Sum              | Java  | 3        | 2026-07-14 |
 | Medium | 271  | [Encode and Decode Strings](problems/medium/0271-encode-and-decode-strings/) | Array, String, Design                 | Java  | 1        | 2026-07-02 |
 | Medium | 304  | [Range Sum Query 2D - Immutable](problems/medium/0304-range-sum-query-2d-immutable/) | Array, Design, Matrix, Prefix Sum | Java  | 1        | 2026-07-14 |
@@ -71,7 +72,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 1020 | [Number of Enclaves](problems/medium/1020-number-of-enclaves/)               | DFS, BFS, Union Find, Matrix          | Java  | 1        | 2026-07-01 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 35 problems — 18 easy · 16 medium · 1 hard.
+**Totals:** 36 problems — 18 easy · 17 medium · 1 hard.
 
 ## Conventions
 
