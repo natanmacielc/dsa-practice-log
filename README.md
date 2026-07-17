@@ -56,6 +56,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 5    | [Longest Palindromic Substring](problems/medium/0005-longest-palindromic-substring/) | String, DP, Two Pointers     | Java  | 1        | 2026-07-01 |
 | Medium | 33   | [Search in Rotated Sorted Array](problems/medium/0033-search-in-rotated-sorted-array/) | Array, Binary Search       | Java  | 1        | 2026-07-16 |
 | Medium | 49   | [Group Anagrams](problems/medium/0049-group-anagrams/)                       | Array, Hash Table, String, Sorting    | Java  | 1        | 2026-07-01 |
+| Medium | 53   | [Maximum Subarray](problems/medium/0053-maximum-subarray/)                   | Array, DP, Divide and Conquer         | Java  | 1        | 2026-07-17 |
 | Medium | 128  | [Longest Consecutive Sequence](problems/medium/0128-longest-consecutive-sequence/) | Array, Hash Table, Union Find | Java  | 1        | 2026-07-01 |
 | Medium | 146  | [LRU Cache](problems/medium/0146-lru-cache/)                                 | Hash Table, Linked List, Design, Doubly-Linked List | Java  | 1        | 2026-07-13 |
 | Medium | 200  | [Number of Islands](problems/medium/0200-number-of-islands/)                 | Array, DFS, BFS, Union Find, Matrix   | Java  | 1        | 2026-07-15 |
@@ -72,7 +73,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 1020 | [Number of Enclaves](problems/medium/1020-number-of-enclaves/)               | DFS, BFS, Union Find, Matrix          | Java  | 1        | 2026-07-01 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 36 problems — 18 easy · 17 medium · 1 hard.
+**Totals:** 37 problems — 18 easy · 18 medium · 1 hard.
 
 ## Conventions
 
