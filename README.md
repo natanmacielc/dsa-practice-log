@@ -48,6 +48,7 @@ problems/<level>/<number>-<slug>/
 | Easy   | 125  | [Valid Palindrome](problems/easy/0125-valid-palindrome/)                     | String, Two Pointers, RegExp, ASCII   | Java  | 1        | 2026-07-01 |
 | Easy   | 217  | [Contains Duplicate](problems/easy/0217-contains-duplicate/)                 | Array, Hash Table                     | Java  | 1        | 2026-07-01 |
 | Easy   | 242  | [Valid Anagram](problems/easy/0242-valid-anagram/)                           | Hash Table, String                    | Java  | 1        | 2026-07-01 |
+| Easy   | 268  | [Missing Number](problems/easy/0268-missing-number/)                         | Array, Hash Table, Math, Bit Manipulation, Sorting | Java  | 1 | 2026-07-17 |
 | Easy   | 303  | [Range Sum Query - Immutable](problems/easy/0303-range-sum-query-immutable/) | Array, Design, Prefix Sum             | Java  | 2        | 2026-07-13 |
 | Easy   | 704  | [Binary Search](problems/easy/0704-binary-search/)                           | Array, Binary Search                  | Java  | 1        | 2026-07-01 |
 | Easy   | 724  | [Find Pivot Index](problems/easy/0724-find-pivot-index/)                     | Array, Prefix Sum                     | Java  | 1        | 2026-07-14 |
@@ -73,7 +74,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 1020 | [Number of Enclaves](problems/medium/1020-number-of-enclaves/)               | DFS, BFS, Union Find, Matrix          | Java  | 1        | 2026-07-01 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 37 problems — 18 easy · 18 medium · 1 hard.
+**Totals:** 38 problems — 19 easy · 18 medium · 1 hard.
 
 ## Conventions
 
