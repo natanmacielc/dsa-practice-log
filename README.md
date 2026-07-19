@@ -61,6 +61,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 128  | [Longest Consecutive Sequence](problems/medium/0128-longest-consecutive-sequence/) | Array, Hash Table, Union Find | Java  | 1        | 2026-07-01 |
 | Medium | 146  | [LRU Cache](problems/medium/0146-lru-cache/)                                 | Hash Table, Linked List, Design, Doubly-Linked List | Java  | 1        | 2026-07-13 |
 | Medium | 152  | [Maximum Product Subarray](problems/medium/0152-maximum-product-subarray/)   | Array, DP                             | Java  | 1        | 2026-07-17 |
+| Medium | 189  | [Rotate Array](problems/medium/0189-rotate-array/)                           | Array, Math, Two Pointers             | Java  | 1        | 2026-07-19 |
 | Medium | 200  | [Number of Islands](problems/medium/0200-number-of-islands/)                 | Array, DFS, BFS, Union Find, Matrix   | Java  | 1        | 2026-07-15 |
 | Medium | 207  | [Course Schedule](problems/medium/0207-course-schedule/)                     | Graph, Topological Sort, BFS, DFS      | Java  | 1        | 2026-07-16 |
 | Medium | 230  | [Kth Smallest Element in a BST](problems/medium/0230-kth-smallest-element-in-a-bst/) | Tree, DFS, BST, Binary Tree    | Java  | 1        | 2026-07-16 |
@@ -76,7 +77,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 1419 | [Minimum Number of Frogs Croaking](problems/medium/1419-minimum-number-of-frogs-croaking/) | Hash Table, String, Counting | Java  | 1        | 2026-07-17 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 40 problems — 19 easy · 20 medium · 1 hard.
+**Totals:** 41 problems — 19 easy · 21 medium · 1 hard.
 
 ## Conventions
 
