@@ -27,7 +27,7 @@ Output: 5
 
 | #                                    | Date       | Language | Approach            | Time | Space | Result             | Notes |
 | ------------------------------------ | ---------- | -------- | ------------------- | ---- | ----- | ------------------ | ----- |
-| [01](attempts/01-java/Solution.java) | 2026-07-19 | Java     | Min-heap of size k; keep the k largest seen so far, top is the kth largest | O(n log k) | O(k) | ✅ Solved unaided | — |
+| [01](attempts/01-java/Solution.java) | 2026-07-19 | Java     | Min-heap of size k; keep the k largest seen so far, top is the kth largest | O(n log k) | O(k) | 🟡 Solved with hints | — |
 
 <!-- Result legend: ✅ Solved unaided · 🟡 Solved with hints · ❌ Gave up / wrong · ⏱️ TLE/MLE -->
 
