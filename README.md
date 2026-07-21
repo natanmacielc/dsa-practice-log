@@ -74,11 +74,12 @@ problems/<level>/<number>-<slug>/
 | Medium | 337  | [House Robber III](problems/medium/0337-house-robber-iii/)                   | DP, Tree, DFS                         | Java  | 1        | 2026-07-01 |
 | Medium | 347  | [Top K Frequent Elements](problems/medium/0347-top-k-frequent-elements/)     | Array, Hash Table, Sorting, Heap, Bucket Sort | Java  | 1        | 2026-07-02 |
 | Medium | 547  | [Number of Provinces](problems/medium/0547-number-of-provinces/)             | DFS, BFS, Union Find, Graph           | Java  | 1        | 2026-07-01 |
+| Medium | 560  | [Subarray Sum Equals K](problems/medium/0560-subarray-sum-equals-k/) | Array, Hash Table, Prefix Sum         | Java  | 1        | 2026-07-21 |
 | Medium | 1020 | [Number of Enclaves](problems/medium/1020-number-of-enclaves/)               | DFS, BFS, Union Find, Matrix          | Java  | 1        | 2026-07-01 |
 | Medium | 1419 | [Minimum Number of Frogs Croaking](problems/medium/1419-minimum-number-of-frogs-croaking/) | Hash Table, String, Counting | Java  | 1        | 2026-07-17 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 42 problems — 19 easy · 22 medium · 1 hard.
+**Totals:** 43 problems — 19 easy · 23 medium · 1 hard.
 
 ## Conventions
 
