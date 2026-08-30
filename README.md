@@ -52,6 +52,7 @@ problems/<level>/<number>-<slug>/
 | Easy   | 303  | [Range Sum Query - Immutable](problems/easy/0303-range-sum-query-immutable/) | Array, Design, Prefix Sum             | Java  | 2        | 2026-07-13 |
 | Easy   | 704  | [Binary Search](problems/easy/0704-binary-search/)                           | Array, Binary Search                  | Java  | 1        | 2026-07-01 |
 | Easy   | 724  | [Find Pivot Index](problems/easy/0724-find-pivot-index/)                     | Array, Prefix Sum                     | Java  | 1        | 2026-07-14 |
+| Easy   | 977  | [Squares of a Sorted Array](problems/easy/0977-squares-of-a-sorted-array/)   | Array, Two Pointers, Sorting          | Java  | 1        | 2026-08-30 |
 | Easy   | 1331 | [Rank Transform of an Array](problems/easy/1331-rank-transform-of-an-array/) | Array, Hash Table, Sorting            | Java  | 1        | 2026-07-12 |
 | Easy   | 1929 | [Concatenation of Array](problems/easy/1929-concatenation-of-array/)         | Array, Simulation                     | Java  | 1        | 2026-07-13 |
 | Medium | 5    | [Longest Palindromic Substring](problems/medium/0005-longest-palindromic-substring/) | String, DP, Two Pointers     | Java  | 1        | 2026-07-01 |
@@ -79,7 +80,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 1419 | [Minimum Number of Frogs Croaking](problems/medium/1419-minimum-number-of-frogs-croaking/) | Hash Table, String, Counting | Java  | 1        | 2026-07-17 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 43 problems — 19 easy · 23 medium · 1 hard.
+**Totals:** 44 problems — 20 easy · 23 medium · 1 hard.
 
 ## Conventions
 
