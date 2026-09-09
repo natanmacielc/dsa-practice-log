@@ -52,6 +52,7 @@ problems/<level>/<number>-<slug>/
 | Easy   | 303  | [Range Sum Query - Immutable](problems/easy/0303-range-sum-query-immutable/) | Array, Design, Prefix Sum             | Java  | 2        | 2026-07-13 |
 | Easy   | 704  | [Binary Search](problems/easy/0704-binary-search/)                           | Array, Binary Search                  | Java  | 1        | 2026-07-01 |
 | Easy   | 724  | [Find Pivot Index](problems/easy/0724-find-pivot-index/)                     | Array, Prefix Sum                     | Java  | 1        | 2026-07-14 |
+| Easy   | 953  | [Verifying an Alien Dictionary](problems/easy/0953-verifying-an-alien-dictionary/) | Array, Hash Table, String        | Java  | 1        | 2026-09-09 |
 | Easy   | 977  | [Squares of a Sorted Array](problems/easy/0977-squares-of-a-sorted-array/)   | Array, Two Pointers, Sorting          | Java  | 1        | 2026-08-30 |
 | Easy   | 1331 | [Rank Transform of an Array](problems/easy/1331-rank-transform-of-an-array/) | Array, Hash Table, Sorting            | Java  | 1        | 2026-07-12 |
 | Easy   | 1929 | [Concatenation of Array](problems/easy/1929-concatenation-of-array/)         | Array, Simulation                     | Java  | 1        | 2026-07-13 |
@@ -83,7 +84,7 @@ problems/<level>/<number>-<slug>/
 | Hard   | 269  | [Alien Dictionary](problems/hard/0269-alien-dictionary/)                     | Array, String, Topological Sort, Graph, BFS, DFS | Java  | 1        | 2026-09-09 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 47 problems — 20 easy · 25 medium · 2 hard.
+**Totals:** 48 problems — 21 easy · 25 medium · 2 hard.
 
 ## Conventions
 
