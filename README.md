@@ -70,6 +70,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 875  | [Koko Eating Bananas](problems/medium/0875-koko-eating-bananas/)             | Array, Binary Search                  | Java  | 1        | 2026-07-16 |
 | Medium | 2187 | [Minimum Time to Complete Trips](problems/medium/2187-minimum-time-to-complete-trips/) | Array, Binary Search        | Java  | 1        | 2026-07-17 |
 | Medium | 238  | [Product of Array Except Self](problems/medium/0238-product-of-array-except-self/) | Array, Prefix Sum              | Java  | 3        | 2026-07-14 |
+| Medium | 253  | [Meeting Rooms II](problems/medium/0253-meeting-rooms-ii/)                   | Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue) | Java  | 1        | 2026-09-09 |
 | Medium | 271  | [Encode and Decode Strings](problems/medium/0271-encode-and-decode-strings/) | Array, String, Design                 | Java  | 1        | 2026-07-02 |
 | Medium | 304  | [Range Sum Query 2D - Immutable](problems/medium/0304-range-sum-query-2d-immutable/) | Array, Design, Matrix, Prefix Sum | Java  | 1        | 2026-07-14 |
 | Medium | 337  | [House Robber III](problems/medium/0337-house-robber-iii/)                   | DP, Tree, DFS                         | Java  | 1        | 2026-07-01 |
@@ -80,7 +81,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 1419 | [Minimum Number of Frogs Croaking](problems/medium/1419-minimum-number-of-frogs-croaking/) | Hash Table, String, Counting | Java  | 1        | 2026-07-17 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 44 problems — 20 easy · 23 medium · 1 hard.
+**Totals:** 45 problems — 20 easy · 24 medium · 1 hard.
 
 ## Conventions
 
