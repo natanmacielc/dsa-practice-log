@@ -86,9 +86,10 @@ problems/<level>/<number>-<slug>/
 | Medium | 1020 | [Number of Enclaves](problems/medium/1020-number-of-enclaves/)               | DFS, BFS, Union Find, Matrix          | Java  | 1        | 2026-07-01 |
 | Medium | 1419 | [Minimum Number of Frogs Croaking](problems/medium/1419-minimum-number-of-frogs-croaking/) | Hash Table, String, Counting | Java  | 1        | 2026-07-17 |
 | Hard   | 269  | [Alien Dictionary](problems/hard/0269-alien-dictionary/)                     | Array, String, Topological Sort, Graph, BFS, DFS | Java  | 1        | 2026-09-09 |
+| Hard   | 564  | [Find the Closest Palindrome](problems/hard/0564-find-the-closest-palindrome/) | Math, String                        | Java  | 1        | 2026-09-09 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 52 problems — 21 easy · 29 medium · 2 hard.
+**Totals:** 53 problems — 21 easy · 29 medium · 3 hard.
 
 ## Conventions
 
