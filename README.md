@@ -57,6 +57,7 @@ problems/<level>/<number>-<slug>/
 | Easy   | 1331 | [Rank Transform of an Array](problems/easy/1331-rank-transform-of-an-array/) | Array, Hash Table, Sorting            | Java  | 1        | 2026-07-12 |
 | Easy   | 1929 | [Concatenation of Array](problems/easy/1929-concatenation-of-array/)         | Array, Simulation                     | Java  | 1        | 2026-07-13 |
 | Medium | 5    | [Longest Palindromic Substring](problems/medium/0005-longest-palindromic-substring/) | String, DP, Two Pointers     | Java  | 1        | 2026-07-01 |
+| Medium | 11   | [Container With Most Water](problems/medium/0011-container-with-most-water/) | Array, Two Pointers, Greedy           | Java  | 1        | 2026-09-09 |
 | Medium | 56   | [Merge Intervals](problems/medium/0056-merge-intervals/)                     | Array, Sorting                        | Java  | 1        | 2026-09-09 |
 | Medium | 33   | [Search in Rotated Sorted Array](problems/medium/0033-search-in-rotated-sorted-array/) | Array, Binary Search       | Java  | 1        | 2026-07-16 |
 | Medium | 49   | [Group Anagrams](problems/medium/0049-group-anagrams/)                       | Array, Hash Table, String, Sorting    | Java  | 1        | 2026-07-01 |
@@ -85,7 +86,7 @@ problems/<level>/<number>-<slug>/
 | Hard   | 269  | [Alien Dictionary](problems/hard/0269-alien-dictionary/)                     | Array, String, Topological Sort, Graph, BFS, DFS | Java  | 1        | 2026-09-09 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 49 problems — 21 easy · 26 medium · 2 hard.
+**Totals:** 50 problems — 21 easy · 27 medium · 2 hard.
 
 ## Conventions
 
