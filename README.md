@@ -80,9 +80,10 @@ problems/<level>/<number>-<slug>/
 | Medium | 560  | [Subarray Sum Equals K](problems/medium/0560-subarray-sum-equals-k/) | Array, Hash Table, Prefix Sum         | Java  | 1        | 2026-07-21 |
 | Medium | 1020 | [Number of Enclaves](problems/medium/1020-number-of-enclaves/)               | DFS, BFS, Union Find, Matrix          | Java  | 1        | 2026-07-01 |
 | Medium | 1419 | [Minimum Number of Frogs Croaking](problems/medium/1419-minimum-number-of-frogs-croaking/) | Hash Table, String, Counting | Java  | 1        | 2026-07-17 |
+| Hard   | 269  | [Alien Dictionary](problems/hard/0269-alien-dictionary/)                     | Array, String, Topological Sort, Graph, BFS, DFS | Java  | 1        | 2026-09-09 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 46 problems — 20 easy · 25 medium · 1 hard.
+**Totals:** 47 problems — 20 easy · 25 medium · 2 hard.
 
 ## Conventions
 
