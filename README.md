@@ -78,6 +78,7 @@ problems/<level>/<number>-<slug>/
 | Medium | 271  | [Encode and Decode Strings](problems/medium/0271-encode-and-decode-strings/) | Array, String, Design                 | Java  | 1        | 2026-07-02 |
 | Medium | 304  | [Range Sum Query 2D - Immutable](problems/medium/0304-range-sum-query-2d-immutable/) | Array, Design, Matrix, Prefix Sum | Java  | 1        | 2026-07-14 |
 | Medium | 337  | [House Robber III](problems/medium/0337-house-robber-iii/)                   | DP, Tree, DFS                         | Java  | 1        | 2026-07-01 |
+| Medium | 417  | [Pacific Atlantic Water Flow](problems/medium/0417-pacific-atlantic-water-flow/) | Array, Matrix, BFS, DFS            | Java  | 1        | 2026-09-09 |
 | Medium | 347  | [Top K Frequent Elements](problems/medium/0347-top-k-frequent-elements/)     | Array, Hash Table, Sorting, Heap, Bucket Sort | Java  | 1        | 2026-07-02 |
 | Medium | 547  | [Number of Provinces](problems/medium/0547-number-of-provinces/)             | DFS, BFS, Union Find, Graph           | Java  | 1        | 2026-07-01 |
 | Medium | 560  | [Subarray Sum Equals K](problems/medium/0560-subarray-sum-equals-k/) | Array, Hash Table, Prefix Sum         | Java  | 1        | 2026-07-21 |
@@ -86,7 +87,7 @@ problems/<level>/<number>-<slug>/
 | Hard   | 269  | [Alien Dictionary](problems/hard/0269-alien-dictionary/)                     | Array, String, Topological Sort, Graph, BFS, DFS | Java  | 1        | 2026-09-09 |
 | Hard   | 834  | [Sum of Distances in Tree](problems/hard/0834-sum-of-distances-in-tree/)     | DP, Tree, DFS, Graph                  | Java  | 1        | 2026-07-01 |
 
-**Totals:** 50 problems — 21 easy · 27 medium · 2 hard.
+**Totals:** 51 problems — 21 easy · 28 medium · 2 hard.
 
 ## Conventions
 
